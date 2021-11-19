@@ -8,4 +8,6 @@ El login valida que el usuario y la clave sean correctas, agregue una animacion 
 user:  administrador@itdelicias.edu.mx 
 clave: 123
 
-# Gracias :) 
+# Link del repositorio original :https://github.com/glzjorge/php_login
+
+Este repositorio se realiza con fines educativos, no tiene intenciones de usurpar la propiedad intelectual del material.
